@@ -8,7 +8,7 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
-| 0: Authors/README File | [AUTHORS](https://github.com/Nyand/AirBnB_clone_v2/AUTHORS) | Project authors |
+| 0: Authors/README File | [AUTHORS](https://github.com/Nyand/AirBnB_clone_v2/blob/dev/AUTHORS) | Project authors |
 <br>
 <center> <h2>General Use</h2> </center>
 
